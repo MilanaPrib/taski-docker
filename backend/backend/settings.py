@@ -12,6 +12,7 @@ ALLOWED_HOSTS = ['84.252.142.239', '127.0.0.1', 'localhost', 'taski-baski.zapto.
 
 
 # Application definition
+# Application definition
 
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
